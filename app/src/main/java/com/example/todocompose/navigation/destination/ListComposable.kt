@@ -11,7 +11,7 @@ import com.example.todocompose.utils.Constants.LIST_ARGUMENT_KEY
 import com.example.todocompose.utils.Constants.LIST_SCREEN
 
 fun NavGraphBuilder.listComposable(
-    navigateToTaskScreen : (Int) -> Unit
+    navigateToTaskScreen : (taskId:Int) -> Unit
 ) {
 
     composable(

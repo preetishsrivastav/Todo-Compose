@@ -1,4 +1,4 @@
-package com.example.todocompose.ui.theme.viewmodel
+package com.example.todocompose.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
